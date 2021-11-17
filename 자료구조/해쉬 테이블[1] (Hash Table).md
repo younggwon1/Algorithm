@@ -13,7 +13,13 @@
 * **해쉬 테이블(Hash Table)**: 키 값의 연산에 의해 직접 접근이 가능한 데이터 구조
   - 슬롯(Slot): 해쉬 테이블에서 한 개의 데이터를 저장할 수 있는 공간
 <img src="https://www.fun-coding.org/00_Images/hashtable2021.jpg" />
+
+
+
 ### 3. 간단한 해쉬 예
+
+
+
 #### 3.1. hash table 클래스 만들기
 
 ```java
