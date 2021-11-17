@@ -15,6 +15,7 @@
 <img src="https://www.fun-coding.org/00_Images/hashtable2021.jpg" />
 ### 3. 간단한 해쉬 예
 #### 3.1. hash table 클래스 만들기
+
 ```java
 public class MyHash {
     // 각각의 데이터를 저장할 수 있는 slot을 기반으로 한 해쉬 테이블
