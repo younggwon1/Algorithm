@@ -116,7 +116,16 @@ class Solution {
 
 - [PriorityQueue 사용법](https://docs.oracle.com/javase/7/docs/api/java/util/PriorityQueue.html)
 
- 
+ ````java
+pq.add(); // 값 추가
+pq.poll(); // 첫번째 값 반환 후 제거 (비어있으면 null)
+pq.clear(); // 비우기
+pq.isEmpty(); // 비어있는지 확인
+pq.remove(); // 첫번째 값 제거
+pq.peek(); // 첫번째 값 반환
+ ````
+
+
 
 1. 우선순위 큐(PriorityQueue) 객체 생성
 
