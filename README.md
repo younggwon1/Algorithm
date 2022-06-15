@@ -14,3 +14,5 @@ Algorithm  공부
 
 
 
+Greedy, Backtracking, Divide and conquer, BFS, DFS, Graph Search, MST, DP, Searching Sorting, Combination, Permutation 그리고 Hard Implement
+
